@@ -24,5 +24,4 @@ It helps you organize daily tasks — add new tasks, delete completed ones, and 
 
 ---
 
-## 📂 Project Structure
 
